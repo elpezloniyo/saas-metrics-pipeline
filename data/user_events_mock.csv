@@ -1,0 +1,5 @@
+event_id,user_id,event_type,timestamp,page_url
+evt_001,cus_001,login,2024-03-01T09:00:00Z,/dashboard
+evt_002,cus_001,feature_used,2024-03-01T09:05:00Z,/dashboard/analytics
+evt_003,cus_002,login,2024-03-01T10:15:00Z,/dashboard
+evt_004,cus_003,churn_feedback,2024-03-15T14:15:00Z,/settings/cancel

@@ -1,0 +1,32 @@
+[
+  {
+    "subscription_id": "sub_101",
+    "customer_id": "cus_001",
+    "plan_name": "Pro Monthly",
+    "mrr_amount": 99.00,
+    "currency": "EUR",
+    "status": "active",
+    "created_at": "2024-01-15T08:30:00Z",
+    "canceled_at": null
+  },
+  {
+    "subscription_id": "sub_102",
+    "customer_id": "cus_002",
+    "plan_name": "Enterprise Annual",
+    "mrr_amount": 499.00,
+    "currency": "EUR",
+    "status": "active",
+    "created_at": "2024-02-01T10:00:00Z",
+    "canceled_at": null
+  },
+  {
+    "subscription_id": "sub_103",
+    "customer_id": "cus_003",
+    "plan_name": "Pro Monthly",
+    "mrr_amount": 99.00,
+    "currency": "EUR",
+    "status": "canceled",
+    "created_at": "2024-01-10T12:00:00Z",
+    "canceled_at": "2024-03-15T14:20:00Z"
+  }
+]
