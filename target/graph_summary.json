@@ -1,0 +1,1 @@
+{"_invocation_id": "6dfa07ef-d1df-4707-b45e-b64263e0acdf", "linked": {"0": {"name": "source.dbt_saas.raw.raw_subscriptions", "type": "source", "succ": [2]}, "1": {"name": "source.dbt_saas.raw.raw_user_events", "type": "source"}, "2": {"name": "model.dbt_saas.stg_subscriptions", "type": "model", "succ": [3]}, "3": {"name": "model.dbt_saas.fct_mrr", "type": "model"}}}
